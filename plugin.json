@@ -1,0 +1,35 @@
+{
+    "name": "LoginRolesLdap",
+    "version": "1.0.0",
+    "description": "LDAP authentication and synchronization for Matomo.",
+    "theme": false,
+    "keywords": ["ldap", "login", "authentication", "active", "directory", "kerberos", "sso"],
+    "license": "GPL v3+",
+    "homepage": "https://github.com/labbsr0x/LoginRolesLDAP",
+    "require": {
+        "piwik": ">=3.0.0-rc1,<4.0.0-b1",
+        "php": ">=5.5"
+    },
+    "authors": [
+        {
+            "name": "Matomo",
+            "email": "hello@matomo.org",
+            "homepage": "https://github.com/matomo-org"
+        },
+        {
+            "name": "Aivo Koger",
+            "email": "aivo.koger@gmail.com",
+            "homepage": "https://github.com/tehnotronic"
+        },
+        {
+            "name": "Stefan Kreuter",
+            "email": "info@gigatec.de",
+            "homepage": "http://www.gigatec.de"
+        },
+        {
+            "name": "Bruno Wego",
+            "email": "brunowego@gmail.com",
+            "homepage": "http://www.brunowego.com"
+        }
+    ]
+}

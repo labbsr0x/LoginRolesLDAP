@@ -1,0 +1,6 @@
+{
+    "LoginRolesLdap": {
+        "LdapPort": "Port servera",
+        "Test": "Test"
+    }
+}
